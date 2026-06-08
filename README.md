@@ -2,4 +2,4 @@
 Test Automation project 
 launch the app
 enter the pin
-tap sign in button 
+tap login in button
